@@ -1,0 +1,11 @@
+a{
+    font-family: 'Krona One', sans-serif;
+}
+
+#portada{
+  background: url(https://bedu.org/wp-content/uploads/Bedu07_ux_frontend.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color:#fff;
+}
